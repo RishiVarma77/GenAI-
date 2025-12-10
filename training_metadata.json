@@ -1,0 +1,17 @@
+{
+  "training_date": "2025-12-03T18:01:59.086862",
+  "dataset_size": 209527,
+  "num_classes": 42,
+  "accuracy": 0.5903927838495681,
+  "target_categories": [
+    "Politics",
+    "Entertainment",
+    "World News",
+    "Business",
+    "Science/Tech",
+    "Sports",
+    "Others"
+  ],
+  "model_type": "TF-IDF + LinearSVC",
+  "features": "ngram_range=(1,2), max_features=10000"
+}
